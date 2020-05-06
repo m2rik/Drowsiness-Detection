@@ -7,9 +7,9 @@ This proposed temporal model uses blink features to detect both early and deep d
 ## 2-Run Preprocessing.py
 ## 3-Run Training.py:
 
-## Dataset Analysis: 
-## Model: Ritesh Sawant
-## Evaluation and Metrics: Anusha Madapati
+### Dataset Analysis: 
+### Model: Ritesh Sawant
+### Evaluation and Metrics: Anusha Madapati
 
 
 
