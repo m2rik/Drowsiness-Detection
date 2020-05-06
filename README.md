@@ -2,6 +2,8 @@
 Realistic Datasets and Baseline Temporal Model for Early Drowsiness Detection
 This proposed temporal model uses blink features to detect both early and deep drowsiness with an intermediate regression step, where drowsiness is estimated with a score from 0 to 10.
 
+# Link to the Presentation:https://docs.google.com/presentation/d/1VELjSNJeFqIzrCvELx0mfGipy2OBvVXr3RwuxkOmxc8/edit?usp=sharing
+
 ## Steps to Run the Code
 ## 1- Run Blink_Video.py:
 ## 2-Run Preprocessing.py
